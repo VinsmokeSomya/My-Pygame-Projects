@@ -8,7 +8,6 @@ To run this project locally, follow these steps:
 Clone the repository:
 
 ```bash
-Copy code
 git clone https://github.com/VinsmokeSomya/My-Pygame-Projects.git
 cd My-Pygame-Projects
 ```
@@ -17,6 +16,5 @@ Install the dependencies:
 Make sure you have Python installed. Then, install Pygame using pip:
 
 ```bash
-Copy code
 pip install pygame
 ```
